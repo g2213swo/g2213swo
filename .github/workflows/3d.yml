@@ -3,7 +3,13 @@ name: GitHub-Profile-3D-Contrib
 on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
+  # allows to manually run the job at any time
   workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
 
 jobs:
   build:
