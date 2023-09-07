@@ -12,7 +12,7 @@ on:
   # don't forget to change if you're using 'master' branch
   push:
     branches:
-    - main
+    - master
 
 jobs:
   build:
