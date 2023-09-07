@@ -29,8 +29,8 @@ Looking forward to connecting with more Minecraft enthusiasts and developers! âœ
 
 <p align="center" >
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/g2213swo/g2213swo/main/profile-3d-contrib/profile-night-green.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g2213swo/g2213swo/main/profile-3d-contrib/profile-green-animate.svg" />
-    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/g2213swo/g2213swo/main/profile-3d-contrib/profile-green-animate.svg" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/g2213swo/g2213swo/output-3d-contrib/night.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g2213swo/g2213swo/output-3d-contrib/day.svg" />
+    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/g2213swo/g2213swo/output-3d-contrib/day.svg" />
   </picture>
 </p>
